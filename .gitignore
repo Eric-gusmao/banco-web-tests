@@ -1,0 +1,6 @@
+# Vite logs files
+vite.config.js.timestamp-*
+vite.config.js.timestamp-*
+
+# Cypress
+cypress/screensshots
